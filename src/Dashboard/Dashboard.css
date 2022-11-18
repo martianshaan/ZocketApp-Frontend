@@ -1,0 +1,25 @@
+.dashboard{
+    display: flex;
+}
+
+.sidenavbar{
+    background-color: #001738;
+    height: 100vh;
+    color: white;
+    width: 182px;
+}
+
+.right{
+display: flex;
+flex-direction: column;
+}
+
+.navbar{
+    height: 80px;
+    width: 1373px;
+    margin-bottom: 5px;
+    justify-content: space-evenly;
+}
+.home{
+    height: 100vh;
+}

@@ -1,0 +1,37 @@
+.sidenavbar sidebarlistitem{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 0px;
+    background-color: aqua;
+}
+.sidenavbar>img{
+    height: 60px;
+    width: 60px;
+  text-align: center;
+display: flex;
+align-items: center;
+margin-left: 55px;
+margin-top: 30px;
+padding: 5px;
+margin-bottom: 30px;
+}
+.sidenavbar li{
+    margin-bottom: 20px;
+    justify-content: left;
+    vertical-align:bottom;
+}
+.sidenavbar ul{
+    margin: 0px;
+    padding: 0;
+    text-align: center;
+    align-items: center;
+    list-style: none;
+    color: white;
+    text-decoration: none;
+}
+
+.sidenavbar .sidebarListItem.active, .sidebarListItem:hover{
+    background-color: rgb(15, 15, 15);
+    color: white
+}

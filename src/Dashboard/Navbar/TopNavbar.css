@@ -1,0 +1,13 @@
+.topnavbar{
+    display: flex;
+font-family: Eudoxus Sans;
+    align-items: center;
+    margin:auto;
+    justify-content: right;
+}
+
+.cake{
+ height: 50px;
+ width: 50px;
+ margin-right: 10px;
+}
